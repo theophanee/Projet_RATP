@@ -1,0 +1,10 @@
+fr.uparis.backapp
+fr.uparis.backapp.config
+fr.uparis.backapp.exceptions
+fr.uparis.backapp.model
+fr.uparis.backapp.model.lieu
+fr.uparis.backapp.model.section
+fr.uparis.backapp.services
+fr.uparis.backapp.utils
+fr.uparis.backapp.utils.constants
+fr.uparis.backapp.web
